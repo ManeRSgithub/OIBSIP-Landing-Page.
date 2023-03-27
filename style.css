@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.topleft{
+    width: 50%;
+    padding: 12px 0;
+}
+.topright{
+    width: 50%;
+    
+}
+.section1{
+  max-height: 100vh; 
+  
+}
+.section1 h1{
+    font-size: 2rem;
+}
+
+.topright .prajakta{
+width: 530px;
+}
+.section2{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+.section2 p{
+    padding: 0 8vw;
+    text-align: center;
+}
+.section2 h1{
+    font-size: 2rem;
+}
+.box{
+    padding: 8px 0;
+    margin: 12px 22px;
+    border-radius: 5px;
+    min-width: 20vw;
+    border: 2px solid #c4baf4;
+    text-align: center;
+}
+.theme1{
+    background-color: #c4baf4;
+}
+.theme2{
+    background-color: #ff1d58;
+}
+.theme3{
+    background-color: #01FF70;
+}
+.theme4{
+    background-color: #FFDC00;
+}
+.theme5{
+    background-color: #f7747b;
+}
+.theme6{
+    background-color: #7561c0;
+}
+.box ul{
+    list-style-type: none;
+}
+.box ul li{
+    margin: 12px 2px;
+}
+.section3{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+footer{
+    padding: 23px;
+    text-align: center;
+    background-color: #c4baf4;
+}
